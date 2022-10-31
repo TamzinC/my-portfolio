@@ -3,7 +3,7 @@
 
 ## Description
 
-I have designed and created a portfolio through applying what I have learnt so far about HTML and CSS, and will continue to be updated as my skills develop. The webpage has also been designed to be repsonsive according to different screen sizes which will ensure the best viewing experience according to screen size. My portfolio will ultimately be used to showcase my projects that I work on. 
+I have designed and created a portfolio through applying what I have learnt so far about HTML and CSS. This will continue to be updated as my skills develop. The webpage has also been designed to be repsonsive according to different screen sizes which will ensure the best viewing experience according to screen size. My portfolio will ultimately be used to showcase my projects that I work on. 
 
 
 
@@ -15,15 +15,15 @@ N/A
 
 ## Usage
 
-Open the webpage in your browser by following this link: https://tamzinc.github.io/challenge_week1/. It should open up a webpage that looks like this:
+Open the webpage in your browser by following this link: https://tamzinc.github.io/my-portfolio/. It should open up a webpage that looks like this:
 
 
-<img width="1792" alt="Screenshot 2022-10-24 at 22 07 59" src="https://user-images.githubusercontent.com/115940593/197629726-c30faeff-c59c-41e8-863f-802d8d20a897.png"> 
+<img width="1075" alt="image" src="https://user-images.githubusercontent.com/115940593/199120829-2ad9309c-1212-4366-bb0c-2ed652635add.png">
 
 
 Once on the webpage you will be able to explore the content available on the page.
 
-
+If you would likeo to view my GitHub repo to view my code, please follow this link: https://github.com/TamzinC/my-portfolio.
 
 ## Credits
 
